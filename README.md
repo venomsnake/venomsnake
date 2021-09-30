@@ -17,5 +17,5 @@ Maybe I'll play with a bit of Rust
 I wanna write software to entertain myself and help people. \
 Tho I don't think I achived the latter goal till now.
 
-> Fun stuff aside, I have to give entrance examination for college, kinda scared how i am gonna do that.
+> Fun stuff aside, I have given entrance examination for college, kinda worried about the result.
 
